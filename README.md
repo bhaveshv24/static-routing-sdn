@@ -56,6 +56,11 @@ mininet> pingall
 - iperf h1->h2: ~100 Gbits/sec
 - Flow tables show static rules per switch
 
+## Outputs 
+
+[PES1UG24CS115_SDN_MININET.pdf](https://github.com/user-attachments/files/26865276/PES1UG24CS115_SDN_MININET.pdf)
+
+
 ## References
 - [Ryu SDN Framework](https://ryu-sdn.org/)
 - [Mininet](https://mininet.org/)
